@@ -1,5 +1,5 @@
 # c621-Hackintosh
-**Cpu** w-3265m
+**Cpu** w-3265m  
 **Mem** 32x6 192G reg ecc  
 **motherboard** EPC621D8A  
 **Disk** 1t sn720&4t HDD  
